@@ -427,7 +427,7 @@
           if (scaleM >= 1.0) melebar = -1.0;
           else if (scaleM <= -1.0) melebar = 1.0;
           
-          scaleM += 0.0134 * melebar;
+          scaleM += 0.0070 * melebar;
           gl.uniform1f(scaleMLoc, scaleM);
       
           // arah cahaya berdasarkan koordinat huruf
