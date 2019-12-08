@@ -1,3 +1,3 @@
 Raja Permata Boy
 05111740000070
-Link Azure :
+Link Azure : https://grafkomc-170070.azurewebsites.net/
